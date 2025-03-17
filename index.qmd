@@ -1,0 +1,9 @@
+# Daniel's advanced Github Notes
+
+Hello world! What I did today:
+
+1.  Joined a Github organization,
+2.  forked the repo...
+3.  ... and much more!
+
+[Workshop Info](https://www.demogr.mpg.de/en/news_events_6123/calendar_1921/second_rostock_open_science_workshop_13282)
