@@ -1,10 +1,10 @@
 project:
-	type: website
-	output-dir: docs
+  type: website
+  output-dir: docs
 
 website:
-	title: "Daniel's Notes"
+  title: "Daniel's Notes"
 
 format:
-	html:
-		theme: slate
+  html:
+    theme: slate
